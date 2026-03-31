@@ -3,7 +3,7 @@ export const shoes = [
     id: 1,
     name: "Mocassins Velours",
     price: 18500,
-    image: "/src/assets/shoes/mocassins.jpg",
+    image: "/shoes/mocassins.jpg",
     category: "Classique",
     sizes: [36, 37, 38, 39, 40, 41],
     description:
@@ -14,7 +14,7 @@ export const shoes = [
     id: 2,
     name: "Talons Sculptés",
     price: 24500,
-    image: "/src/assets/shoes/talons.jpg",
+    image: "/shoes/talons.jpg",
     category: "Soirée",
     sizes: [36, 37, 38, 39, 40],
     description:
@@ -25,7 +25,7 @@ export const shoes = [
     id: 3,
     name: "Ballerines Soie",
     price: 15000,
-    image: "/src/assets/shoes/ballerines.jpg",
+    image: "/shoes/ballerines.jpg",
     category: "Quotidien",
     sizes: [35, 36, 37, 38, 39, 40, 41],
     description:
@@ -36,7 +36,7 @@ export const shoes = [
     id: 4,
     name: "TN Air Boost",
     price: 32000,
-    image: "/src/assets/shoes/tn.jpg",
+    image: "/shoes/tn.jpg",
     category: "Sport",
     sizes: [36, 37, 38, 39, 40, 41, 42],
     description:
@@ -47,7 +47,7 @@ export const shoes = [
     id: 5,
     name: "Sneakerinas Perle",
     price: 27000,
-    image: "/src/assets/shoes/sneakerinas.jpg",
+    image: "/shoes/sneakerinas.jpg",
     category: "Hybride",
     sizes: [36, 37, 38, 39, 40],
     description:
@@ -58,7 +58,7 @@ export const shoes = [
     id: 6,
     name: "Mules Minimaliste",
     price: 19000,
-    image: "/src/assets/shoes/mules.jpg",
+    image: "/shoes/mules.jpg",
     category: "Décontracté",
     sizes: [36, 37, 38, 39, 40, 41],
     description:
@@ -69,7 +69,7 @@ export const shoes = [
     id: 7,
     name: "Sneakers Couture",
     price: 35000,
-    image: "/src/assets/shoes/sneakers.jpg",
+    image: "/shoes/sneakers.jpg",
     category: "Luxe Sport",
     sizes: [36, 37, 38, 39, 40, 41, 42],
     description:
@@ -80,7 +80,7 @@ export const shoes = [
     id: 8,
     name: "Baskets Hybrides X",
     price: 29500,
-    image: "/src/assets/shoes/baskets-hybrides.jpg",
+    image: "/shoes/baskets-hybrides.jpg",
     category: "Hybride",
     sizes: [36, 37, 38, 39, 40, 41],
     description:
@@ -91,7 +91,7 @@ export const shoes = [
     id: 9,
     name: "Loafers Plateforme",
     price: 22000,
-    image: "/src/assets/shoes/loafers-plateforme.jpg",
+    image: "/shoes/loafers-plateforme.jpg",
     category: "Tendance",
     sizes: [36, 37, 38, 39, 40, 41],
     description:
@@ -102,7 +102,7 @@ export const shoes = [
     id: 10,
     name: "Mary Jane Twist",
     price: 21000,
-    image: "/src/assets/shoes/mary-jane.jpg",
+    image: "shoes/mary-jane.jpg",
     category: "Romantique",
     sizes: [35, 36, 37, 38, 39, 40],
     description:
